@@ -12,8 +12,8 @@ HTML5: For structuring the webpage. CSS3: For styling the user interface. JavaSc
 To run this project locally, you'll need a basic web browser.
 
 ## Installation
-Clone the repository: get clone  https://github.com/tejasya27/Age-Calculator.git
-Navigate to the project directory: cd age_calculator
-Open index.html in your web browser to start using the age calculator.
-Usage
+1. Clone the repository: get clone  https://github.com/tejasya27/Age-Calculator.git
+2. Navigate to the project directory: cd age_calculator
+3.  index.html in your web browser to start using the age calculator.
+## Usage
 Open the webpage in a browser. Enter the birthdate or event date in the input field. Press the "Calculate" button to see the age in years, months, and days.
